@@ -1,5 +1,5 @@
 import { describe, it, expect } from "vitest";
-import { render } from "./quiz";
+import { render } from ".";
 
 const domTree = {
   type: "div",
